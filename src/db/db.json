@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "d2f44098-156b-4e65-8c68-1b8ed7b6ef94",
+    "name": "Derrick Hirthe",
+    "phone": "1-807-447-6798",
+    "email": "Magdalen_Ullrich4@gmail.com",
+    "job": "Product Mobility Technician"
+  },
+  {
+    "id": "a883f210-bf65-46fe-a350-566d8edd28ea",
+    "name": "Brian Rolfson",
+    "phone": "(976) 866-9467",
+    "email": "Stephania6@hotmail.com",
+    "job": "International Integration Coordinator"
+  },
+  {
+    "id": "c6d4f3b1-a66f-4b55-b83c-417619d6e129",
+    "name": "Emily Leannon",
+    "phone": "(320) 857-3645",
+    "email": "Kali_Abshire80@yahoo.com",
+    "job": "Customer Intranet Assistant"
+  }
+]
